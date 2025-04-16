@@ -2,7 +2,7 @@
 # Invasive Pest Surveillance Analysis
 
 ## Project Overview
-This repository contains the written exam report and accompanying R scripts for analyzing surveillance data of three invasive pests in Canada:
+R scripts for analyzing surveillance data of three invasive pests in Canada:
 - **Emerald Ash Borer** (Agrilus planipennis)
 - **Asian Longhorned Beetle** (Agrilus glabripennis)
 - **Hemlock Woolly Adelgid** (Adelges tsugae)
