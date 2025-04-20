@@ -30,4 +30,10 @@ install.packages(c(
   "patchwork",
   "ggtext"
 ))
+```
+## Example Output
+![image](https://github.com/user-attachments/assets/c481b27c-0e59-4a68-86be-ab59766aef07)
+![hp_provinces](https://github.com/user-attachments/assets/f84f625a-1c32-45c5-8f7d-74c93b5415c1)
+
+
 
